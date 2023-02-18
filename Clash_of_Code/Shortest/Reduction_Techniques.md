@@ -1,5 +1,5 @@
 ## CoC, Shortest Mode
-#### During our IB DP year 2, every class we started our class with a competitive coding game "Clash of Codes(CoC)". "Shortest" was one of the game modes that are included in the CoC, and the purpose of this mode is to solve the problem using minimal code length as possible. In order to do so, students were required to improve their skills in reducing the code length through learning some techniques.
+#### During our IB DP year 2, every class we started with a competitive coding game "Clash of Codes(CoC)". "Shortest" was one of the game modes that are included in the CoC, and the purpose of this mode is to solve the problem using minimal code length as possible. In order to do so, students were required to improve their skills in reducing the code length through learning some techniques.
 #### Below are some of the techniques we learned throughout 
 
 ### Variable Grouping
